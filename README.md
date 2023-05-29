@@ -31,8 +31,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: DELLI PRIYA L
+### Register Number: 212222230029
+
+![image](https://github.com/Priya-Loganathan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/121166075/07c16762-080e-4460-a097-a783e6073c99)
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
